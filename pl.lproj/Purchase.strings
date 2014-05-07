@@ -2,36 +2,30 @@
 "loading product price title" = "Ładowanie ceny...";
 
 "need purchase alert title" = "Akcja jest niedostępna";
-"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "Dla tej akcji koniecznie jest kupienie pakietu \"Pro Mode\" w dodatkowym uaktualnieniu";
-"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Dla tej akcji koniecznie jest kupienie \"Asystenta głosowego\" w dodatkowym uaktualnieniu";
+"need purchase pro mode alert message" = "Dla tej akcji koniecznie jest kupienie pakietu \"Pro Mode\" w dodatkowym uaktualnieniu";
 
-"promotion alert title for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "PRO mode";
-"promotion alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "Funkcje trybu PRO nie są kupione. Tryb demonstracyjny będzie działał tylko przez 5 minut";
-
-"promotion alert title for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Asystent głosowy";
-"promotion alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Asystent głosowy nie jest kupiony. Tryb demonstracyjny będzie działał tylko przez 5 minut";
+"promotion pro mode alert title" = "PRO mode";
+"promotion pro mode alert message" = "Funkcje trybu PRO nie są kupione. Tryb demonstracyjny będzie działał tylko przez 5 minut";
 
 "cancel button" = "Anuluj";
 "store button" = "Kup";
 "accept promotion button" = "OK";
 
-"purchase com.RITLLC.HudWay.NonConsumable.AdFree title" = "Bez reklam";
-"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant title" = "Asystent głosowy (pilot)";
-"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures title" = "Plus +";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "Pakiet PRO (wszystko w jednym)";
+"ad free title" = "Bez reklam";
+"voice assistant title" = "Asystent głosowy (pilot)";
+"draw features title" = "Plus +";
 
-"purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "Ciesz się HUDWAY bez reklam i uzyskaj dodatkowe miejsce na ekranie";
-"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant description" = "Asysten głosowy Hudway ostrzega cię o każdym niebezpiecznym zakręcie przed Tobą, dźwiękowo i obrazowo, abyś usłyszał o jednym, dwóch następnych zakrętach";
-"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures description" = "Chcesz innego stylu jazdy? Z aktualizacją, będziesz mógł dostosowac widok na drodze. Każdy nowy styl będzie dostępny tutaj";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Zdobądź wszystkie ulepszenia, jak jeden pakiet w specjalnej cenie. Każde nowy ulepszenie będzie dostępny dla użytkowników PRO za darmo";
+"ad free description" = "Ciesz się HUDWAY bez reklam i uzyskaj dodatkowe miejsce na ekranie";
+"voice assistant description" = "Asysten głosowy Hudway ostrzega cię o każdym niebezpiecznym zakręcie przed Tobą, dźwiękowo i obrazowo, abyś usłyszał o jednym, dwóch następnych zakrętach";
+"draw features description" = "Chcesz innego stylu jazdy? Z aktualizacją, będziesz mógł dostosowac widok na drodze. Każdy nowy styl będzie dostępny tutaj";
 
-"purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Wyłącz reklamy za %@";
-"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant buy button" = "Kup za %@";
-"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures buy button" = "Kup za %@";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Kup za %@";
+"purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.m.3 buy button" = "Buy 3 months for %@";
+"purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.y.1 buy button" = "Buy 1 year for %@";
 
 "alert purchase error #100 message" = "Nie można połączyć się z App Store, sprawdź w Ustawienia > Ogólne> Ograniczenia, czy zakupy w aplikacji są włączone";
 "alert purchase error #105 message" = "Nie można połączyć się z App Store";
+"alert purchase error #106 message" = "Can't buy product, because can't connect to App Store";
+"alert purchase error #107 message" = "Nie można połączyć się z App Store";
 
 "purchase sku_ads_disabled title" = "Bez reklam";
 "purchase sku_pro_mode_enabled title" = "Wersja PRO";
@@ -42,4 +36,9 @@
 "purchase sku_ads_disabled buy button" = "Wyłącz reklamy za %@";
 "purchase sku_pro_mode_enabled buy button" = "Kup wersję PRO za %@";
 
-"not available alert for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Asystent głosowy jest dostępny tylko od wersji iOS 7.0";
+"not available voice assistant alert message" = "Asystent głosowy jest dostępny tylko od wersji iOS 7.0";
+
+"subscription description format" = "Subscription ends %@";
+"subscription status title" = "Status";
+"subscription upgrade title" = "Upgrade";
+"subscription enabled title" = "PRO mode is enabled";

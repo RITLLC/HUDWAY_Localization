@@ -9,7 +9,8 @@
 
 "empty addresses description" = "Adres nie został znaleziony";
 
-"history addresses title" = "Częste adresy";
+"history addresses title" = "Recent";
+"top addresses title" = "Częste adresy";
 
 "voice recording description" = "Mów...";
 "voice recognition description" = "Przetwarzanie...";

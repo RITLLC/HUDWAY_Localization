@@ -9,7 +9,8 @@
 
 "empty addresses description" = "Адрес не найден";
 
-"history addresses title" = "Частые адреса";
+"history addresses title" = "Недавние";
+"top addresses title" = "Популярные";
 
 "voice recording description" = "Говорите...";
 "voice recognition description" = "Обработка...";

@@ -9,7 +9,8 @@
 
 "empty addresses description" = "Address not found";
 
-"history addresses title" = "Frequent addresses";
+"history addresses title" = "Recent";
+"top addresses title" = "Most Popular";
 
 "voice recording description" = "Speak...";
 "voice recognition description" = "Processing...";
