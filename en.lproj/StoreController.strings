@@ -12,12 +12,12 @@
 
 "first button title" = "1 Month";
 "second button title" = "1 Year";
-"first button date description" = "Access until";
-"second button date description" = "Access until";
+"first button date description" = "Access till";
+"second button date description" = "Access till";
 
 "subscriptions info" = "Will not automatically renew";
 
 "cancel button" = "Cancel";
 "restore purchases button" = "Restore purchases";
 
-"can't connect to app store label" = "Cannot connect to iTunes Store.\n\nTry again later";
+"can't connect to app store label" = "Can not connect to iTunes Store.\n\nTry again later";
