@@ -1,5 +1,5 @@
 ﻿"title" = "欢迎使用HUDWAY！";
 
-"agree button" = "我同意";
+"agree button" = "ACCEPT";
 
-"rules description" = "\n使用此应用程序意味着您将要接受以下使用条款。\n\n使用此实时路线导航应用所导致的风险将由您个人来承担。 位置数据可能不准确。\n\n版权持有者不提供任何关于此应用在准确性和完整性上的保证,而且对任何由于使用HUDWAY所导致的危险免责。\n\n我们建议您在道路上小心驾驶而且仅相信您的实际所见。";
+"rules description" = "\nBy downloading and using this application, you accept all terms of use stated on our website at www.hudwayapp.com, including: your use of this application is at your own risk.\n\nHudway, LLC and its affiliated entities\ndo not guarantee the accuracy\nor completeness of the maps, directions\nor route guidance and are not liable for any personal injuries or damage to any person or property occurred while using the application.\n\nBy tapping (pressing) “ACCEPT” button below you expressly assume risk of any personal injury or other damage occurred while using this application.";

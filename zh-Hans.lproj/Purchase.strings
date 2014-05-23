@@ -7,9 +7,13 @@
 "promotion pro mode alert title" = "专业版";
 "promotion pro mode alert message" = "您还没有购买专业版HUDWAY。专业功能试用将会在5分钟后结束。";
 
+"need restore purchases alert title" = "Restoration";
+"need restore purchases alert message" = "We detect that you have purchases, you want to restore their?";
+
 "cancel button" = "取消";
 "store button" = "购买";
 "accept promotion button" = "是";
+"restore button" = "Restore";
 
 "ad free title" = "无广告";
 "voice assistant title" = "Voice assistant (co-driver)";
@@ -18,9 +22,6 @@
 "ad free description" = "享受无广告的HUDWAY";
 "voice assistant description" = "Hudway Voice Assistant alerts you on every dangerous curve on the road ahead, creating an audio-image to hear for the next one-two turns";
 "draw features description" = "Want different road style? With this upgrade you will be able to customize the view of the road and its turns. Every new style will be available here";
-
-"purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.m.3 buy button" = "Buy 3 months for %@";
-"purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.y.1 buy button" = "Buy 1 year for %@";
 
 "alert purchase error #100 message" = "App Store暂不可用，请检查关于App Store的设置";
 "alert purchase error #105 message" = "无法连接到App Store";

@@ -3,15 +3,15 @@
 "seconds short" = "сек.";
 "day hour delimiter" = "в";
 
-"mounth 1 short" = "янв.";
-"mounth 2 short" = "фев.";
-"mounth 3 short" = "мар.";
-"mounth 4 short" = "апр.";
-"mounth 5 short" = "мая";
-"mounth 6 short" = "июня";
-"mounth 7 short" = "июля";
-"mounth 8 short" = "авг.";
-"mounth 9 short" = "сент.";
-"mounth 10 short" = "окт.";
-"mounth 11 short" = "нояб.";
-"mounth 12 short" = "дек.";
+"month 1 short" = "янв.";
+"month 2 short" = "фев.";
+"month 3 short" = "мар.";
+"month 4 short" = "апр.";
+"month 5 short" = "мая";
+"month 6 short" = "июня";
+"month 7 short" = "июля";
+"month 8 short" = "авг.";
+"month 9 short" = "сент.";
+"month 10 short" = "окт.";
+"month 11 short" = "нояб.";
+"month 12 short" = "дек.";

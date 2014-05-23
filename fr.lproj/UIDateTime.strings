@@ -3,15 +3,15 @@
 "seconds short" = "sec.";
 "day hour delimiter" = "at";
 
-"mounth 1 short" = "Jan.";
-"mounth 2 short" = "Feb.";
-"mounth 3 short" = "March";
-"mounth 4 short" = "Apr.";
-"mounth 5 short" = "May";
-"mounth 6 short" = "June";
-"mounth 7 short" = "July";
-"mounth 8 short" = "Aug.";
-"mounth 9 short" = "Sept.";
-"mounth 10 short" = "Oct.";
-"mounth 11 short" = "Nov.";
-"mounth 12 short" = "Dec.";
+"month 1 short" = "Jan.";
+"month 2 short" = "Feb.";
+"month 3 short" = "March";
+"month 4 short" = "Apr.";
+"month 5 short" = "May";
+"month 6 short" = "June";
+"month 7 short" = "July";
+"month 8 short" = "Aug.";
+"month 9 short" = "Sept.";
+"month 10 short" = "Oct.";
+"month 11 short" = "Nov.";
+"month 12 short" = "Dec.";

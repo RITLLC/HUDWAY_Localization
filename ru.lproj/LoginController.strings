@@ -1,11 +1,12 @@
 "top label text"                = "Войдите в профиль HUDWAY";
-"registration label"            = "Регистрация";
+"registration label"            = "Регистрация...";
 "recovery password label"       = "Забыли пароль?";
+"or label text"                 = "– или –";
 
 "login remote service button"   = "Войти в HUDWAY";
 "login facebook button title"   = "Войти через Facebook";
 "login twitter button title"    = "Войти через Twitter";
-"dont login button"             = "Пропустить";
+"dont login button"             = "Попробовать!";
 
 "email placeholder"             = "E-mail";
 "password placeholder"          = "Пароль";

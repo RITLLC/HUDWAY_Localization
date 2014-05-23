@@ -7,9 +7,13 @@
 "promotion pro mode alert title" = "PRO mode";
 "promotion pro mode alert message" = "PRO mode functions are not purchased. Demonstration mode will enable it for 5 minutes only";
 
+"need restore purchases alert title" = "Restoration";
+"need restore purchases alert message" = "We detect that you have purchases, you want to restore their?";
+
 "cancel button" = "Cancel";
 "store button" = "Buy";
 "accept promotion button" = "OK";
+"restore button" = "Restore";
 
 "ad free title" = "Ad Free";
 "voice assistant title" = "Voice assistant (co-driver)";

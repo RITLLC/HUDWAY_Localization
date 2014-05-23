@@ -1,4 +1,4 @@
-"store title" = "PRO режим";
+"store title" = "Включить PRO Режим";
 
 "lock alert get products info" = "Получаю покупки из AppStore...";
 "lock alert purchase processing" = "Обработка покупки...";
@@ -9,6 +9,13 @@
 
 "lock alert restore purchases processing" = "Восстановление покупок...";
 "lock alert success restore purchases processing" = "Готово!";
+
+"first button title" = "1 Месяц";
+"second button title" = "1 Год";
+"first button date description" = "Действует до";
+"second button date description" = "Действует до";
+
+"subscriptions info" = "Без автоматического продления";
 
 "cancel button" = "Отмена";
 "restore purchases button" = "Восстановить покупки";

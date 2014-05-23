@@ -1,4 +1,4 @@
-"store title" = "PRO mode";
+"store title" = "Go PRO Mode";
 
 "lock alert get products info" = "Get info from AppStore...";
 "lock alert purchase processing" = "Purchase processing...";
@@ -9,6 +9,13 @@
 
 "lock alert restore purchases processing" = "Restore purchases...";
 "lock alert success restore purchases processing" = "Success!";
+
+"first button title" = "1 Month";
+"second button title" = "1 Year";
+"first button date description" = "Access until";
+"second button date description" = "Access until";
+
+"subscriptions info" = "Will not automatically renew";
 
 "cancel button" = "Cancel";
 "restore purchases button" = "Restore purchases";

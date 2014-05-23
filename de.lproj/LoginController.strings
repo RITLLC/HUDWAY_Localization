@@ -1,11 +1,12 @@
 "top label text"                = "Bei HUDWAY anmelden";
-"registration label"            = "Registrieren";
+"registration label"            = "Registrieren...";
 "recovery password label"       = "Passwort vergessen?";
+"or label text"                 = "– or –";
 
-"login remote service button"   = "Anmelden";
+"login remote service button"   = "Log In";
 "login facebook button title"   = "Mit Facebook anmelden";
 "login twitter button title"    = "Mit Twitter anmelden";
-"dont login button"             = "Überspringen";
+"dont login button"             = "Try us out!";
 
 "email placeholder"             = "E-Mail";
 "password placeholder"          = "Passwort";

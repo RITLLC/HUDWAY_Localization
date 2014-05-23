@@ -7,9 +7,13 @@
 "promotion pro mode alert title" = "PRO mode";
 "promotion pro mode alert message" = "Funkcje trybu PRO nie są kupione. Tryb demonstracyjny będzie działał tylko przez 5 minut";
 
+"need restore purchases alert title" = "Restoration";
+"need restore purchases alert message" = "We detect that you have purchases, you want to restore their?";
+
 "cancel button" = "Anuluj";
 "store button" = "Kup";
 "accept promotion button" = "OK";
+"restore button" = "Restore";
 
 "ad free title" = "Bez reklam";
 "voice assistant title" = "Asystent głosowy (pilot)";
@@ -18,9 +22,6 @@
 "ad free description" = "Ciesz się HUDWAY bez reklam i uzyskaj dodatkowe miejsce na ekranie";
 "voice assistant description" = "Asysten głosowy Hudway ostrzega cię o każdym niebezpiecznym zakręcie przed Tobą, dźwiękowo i obrazowo, abyś usłyszał o jednym, dwóch następnych zakrętach";
 "draw features description" = "Chcesz innego stylu jazdy? Z aktualizacją, będziesz mógł dostosowac widok na drodze. Każdy nowy styl będzie dostępny tutaj";
-
-"purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.m.3 buy button" = "Buy 3 months for %@";
-"purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.y.1 buy button" = "Buy 1 year for %@";
 
 "alert purchase error #100 message" = "Nie można połączyć się z App Store, sprawdź w Ustawienia > Ogólne> Ograniczenia, czy zakupy w aplikacji są włączone";
 "alert purchase error #105 message" = "Nie można połączyć się z App Store";

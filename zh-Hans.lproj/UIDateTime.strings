@@ -3,15 +3,15 @@
 "seconds short" = "秒";
 "day hour delimiter" = "";
 
-"mounth 1 short" = "一月";
-"mounth 2 short" = "二月";
-"mounth 3 short" = "三月";
-"mounth 4 short" = "四月";
-"mounth 5 short" = "五月";
-"mounth 6 short" = "六月";
-"mounth 7 short" = "七月";
-"mounth 8 short" = "八月";
-"mounth 9 short" = "九月";
-"mounth 10 short" = "十月";
-"mounth 11 short" = "十一月";
-"mounth 12 short" = "十二月";
+"month 1 short" = "一月";
+"month 2 short" = "二月";
+"month 3 short" = "三月";
+"month 4 short" = "四月";
+"month 5 short" = "五月";
+"month 6 short" = "六月";
+"month 7 short" = "七月";
+"month 8 short" = "八月";
+"month 9 short" = "九月";
+"month 10 short" = "十月";
+"month 11 short" = "十一月";
+"month 12 short" = "十二月";

@@ -7,9 +7,13 @@
 "promotion pro mode alert title" = "PRO mode";
 "promotion pro mode alert message" = "PRO mode functions are not purchased. Demonstration mode will enable it for 5 minutes only";
 
+"need restore purchases alert title" = "Restoration";
+"need restore purchases alert message" = "We detect that you have purchases, you want to restore their?";
+
 "cancel button" = "Cancel";
 "store button" = "Buy";
 "accept promotion button" = "OK";
+"restore button" = "Restore";
 
 "ad free title" = "Ad Free";
 "voice assistant title" = "Voice assistant (co-driver)";
@@ -18,9 +22,6 @@
 "ad free description" = "Enjoy HUDWAY without Ads and get an extra place on the tracking screen";
 "voice assistant description" = "Hudway Voice Assistant alerts you on every dangerous curve on the road ahead, creating an audio-image to hear for the next one-two turns";
 "draw features description" = "Want different road style? With this upgrade you will be able to customize the view of the road and its turns. Every new style will be available here";
-
-"purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.m.3 buy button" = "Buy 3 months for %@";
-"purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.y.1 buy button" = "Buy 1 year for %@";
 
 "alert purchase error #100 message" = "Can't connect to App Store, check in Settings > General > Restrictions that the In-App Purchases is enabled";
 "alert purchase error #105 message" = "Can't connect to App Store";

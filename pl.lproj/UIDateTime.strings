@@ -3,15 +3,15 @@
 "seconds short" = "sek.";
 "day hour delimiter" = "o";
 
-"mounth 1 short" = "Sty.";
-"mounth 2 short" = "Lut.";
-"mounth 3 short" = "Marz.";
-"mounth 4 short" = "Kwi.";
-"mounth 5 short" = "Maj";
-"mounth 6 short" = "Czer.";
-"mounth 7 short" = "Lip.";
-"mounth 8 short" = "Sie.";
-"mounth 9 short" = "Wrz.";
-"mounth 10 short" = "Paź.";
-"mounth 11 short" = "Lis.";
-"mounth 12 short" = "Gru.";
+"month 1 short" = "Sty.";
+"month 2 short" = "Lut.";
+"month 3 short" = "Marz.";
+"month 4 short" = "Kwi.";
+"month 5 short" = "Maj";
+"month 6 short" = "Czer.";
+"month 7 short" = "Lip.";
+"month 8 short" = "Sie.";
+"month 9 short" = "Wrz.";
+"month 10 short" = "Paź.";
+"month 11 short" = "Lis.";
+"month 12 short" = "Gru.";

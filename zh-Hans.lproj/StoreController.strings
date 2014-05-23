@@ -1,4 +1,4 @@
-﻿"store title" = "PRO mode";
+﻿"store title" = "Go PRO Mode";
 
 "lock alert get products info" = "正在从AppStore获取信息...";
 "lock alert purchase processing" = "正在处理...";
@@ -10,8 +10,14 @@
 "lock alert restore purchases processing" = "正在购买...";
 "lock alert success restore purchases processing" = "购买成功！";
 
+"first button title" = "1 Month";
+"second button title" = "1 Year";
+"first button date description" = "Access until";
+"second button date description" = "Access until";
+
+"subscriptions info" = "Will not automatically renew";
+
 "cancel button" = "取消";
-"save purchases button" = "保存购买";
 "restore purchases button" = "再次购买";
 
 "can't connect to app store label" = "暂时无法连接到App Store\n\n请稍后再试";
