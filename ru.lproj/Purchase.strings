@@ -2,10 +2,10 @@
 "loading product price title" = "Получаю цену...";
 
 "need purchase alert title" = "Действие не доступно";
-"need purchase pro mode alert message" = "Для этого действия необходимо купить дополнительное улучшение \"Pro Режим\"";
+"need purchase pro mode alert message" = "Для этого действия необходимо активировать \"PRO режим\"";
 
 "promotion pro mode alert title" = "PRO режим";
-"promotion pro mode alert message" = "Функции PRO режима не куплены. Демонстрация\nрежима — 5 минут";
+"promotion pro mode alert message" = "Функции PRO режима не активированы. Демонстрация\nрежима — 10 минут";
 
 "cancel button" = "Отмена";
 "store button" = "Купить";
@@ -13,25 +13,25 @@
 
 "ad free title" = "Отключение рекламы";
 "voice assistant title" = "Голосовой ассистент (Штурман)";
-"draw features title" = "Плюс +";
+"draw features title" = "Настройка Плюс";
 
-"ad free description" = "Наслаждайтесь HUDWAY не видя никаких внешних объявлений и получите дополнительное поле для данных на экране";
-"voice assistant description" = "Голосовой ассистент Hudway предупредит вас не только о развязках, но и всех значимых изгибах дороги на которые следует обратить внимание";
-"draw features description" = "Настройте внешний вид дороги и поворотов в режиме HUD. Все новые стили будут доступны с этим улучшением";
+"ad free description" = "Наслаждайтесь приложением без какой-либо рекламы, рабочая область экрана станет больше";
+"voice assistant description" = "Голосовой ассистент Hudway предупредит вас не только о развязках, но и о всех значимых изгибах дороги на которые следует обратить внимание";
+"draw features description" = "Настраивайте внешний вид дороги и стиль поворотов в режиме Head-Up Display по вашему предпочтению";
 
 "purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.m.3 buy button" = "Купить 3 месяца\nза %@";
 "purchase com.RITLLC.HudWay.NonRenewingSubscription.ProMode.y.1 buy button" = "Купить 1 год\nза %@";
 
-"alert purchase error #100 message" = "Не могу подлючится к App Store, проверьте в Настроки > Основные > Ограничения что встроенные покупки разрешены";
+"alert purchase error #100 message" = "Не могу подлючится к App Store, проверьте в Настроки > Основные > Ограничения, что встроенные покупки разрешены";
 "alert purchase error #105 message" = "Не могу подлючится к App Store";
-"alert purchase error #106 message" = "Не могу купить продукт, т.к не могу подлючится к App Store";
+"alert purchase error #106 message" = "Не могу купить подписку, т.к не могу подлючится к App Store";
 "alert purchase error #107 message" = "Не могу подлючится к App Store";
 
 "purchase sku_ads_disabled title" = "Отключение рекламы";
 "purchase sku_pro_mode_enabled title" = "PRO режим";
 
 "purchase sku_ads_disabled description" = "Наслаждайтесь HUDWAY без рекламы и получите дополнительное место на экране";
-"purchase sku_pro_mode_enabled description" = "Профессиональный вид дороги, анализ и подкраска поворотов и другое в режиме PRO";
+"purchase sku_pro_mode_enabled description" = "Настраивайте внешний вид дороги, стиль поворотов и другое в режиме PRO";
 
 "purchase sku_ads_disabled buy button" = "Отключить рекламу за %@";
 "purchase sku_pro_mode_enabled buy button" = "Перейти в PRO режим за %@";
@@ -41,4 +41,4 @@
 "subscription description format" = "Подписка закончится %@";
 "subscription status title" = "Статус";
 "subscription upgrade title" = "Обновить";
-"subscription enabled title" = "PRO режим включен";
+"subscription enabled title" = "PRO режим активирован";
