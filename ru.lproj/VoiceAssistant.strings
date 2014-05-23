@@ -17,7 +17,7 @@
 "2-4 kilometers" = "километра";
 "kilometers" = "километров";
 "meters" = "метров";
-"mile" = "милю";
+"mile" = "миля";
 "2-4 miles" = "мили";
 "miles" = "миль";
 "yards" = "ярдов";
@@ -27,7 +27,7 @@
 "connection between maneuvers" = " и затем ";
 "to finish description" = "до точки назначения";
 "in finish" = "Вы прибыли в точку назначения";
-"big maneuvers bundle description" = " и затем, внимание, сложная связка поворотов";
+"big maneuvers bundle description" = " и затем, внимание, связка поворотов";
 "is out of way" = "вы ушли с маршрута";
 "track recalculating" = "пересчитываю";
-"finish track recalculating" = "пересчет окончен";
+"finish track recalculating" = "пересчёт окончен";
