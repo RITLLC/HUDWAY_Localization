@@ -8,7 +8,7 @@
 "promotion pro mode alert message" = "Функции PRO режима не активированы. Демонстрация\nрежима — 10 минут";
 
 "need restore purchases alert title" = "Восстановление";
-"need restore purchases alert message" = "Мы обнаружили что у вас имеются покупки, хотите восстановить их?";
+"need restore purchases alert message" = "Мы обнаружили, что у вас есть активная подписка. Восстановить?";
 
 "cancel button" = "Отмена";
 "store button" = "Купить";
