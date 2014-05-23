@@ -3,7 +3,7 @@
 "rigth direction" = "right";
 
 "easy difficult" = "easy";
-"medium difficult" = "middle";
+"medium difficult" = "medium";
 "hard difficult" = "hard";
 "perpendicular difficult" = "90 degree";
 "sharp difficult" = "sharp";
@@ -21,13 +21,13 @@
 "2-4 miles" = "miles";
 "miles" = "miles";
 "yards" = "yards";
-"foots" = "foots";
+"foots" = "foot";
 "connection between units" = "and";
 
 "connection between maneuvers" = " and then ";
 "to finish description" = "to finish";
 "in finish" = "you have arrived at the destination";
-"big maneuvers bundle description" = " and then, attention, bunch of complicated turns";
+"big maneuvers bundle description" = " and then, attention, sequence of turns";
 "is out of way" = "you left from the route";
-"track recalculating" = "recalculate the route";
-"finish track recalculating" = "recalculation of the route is ended";
+"track recalculating" = "recalculating";
+"finish track recalculating" = "recalculating complete";
