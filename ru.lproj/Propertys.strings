@@ -1,6 +1,6 @@
 "SurfaceType0" = "Гравий";
 "SurfaceType1" = "Асфальт";
-"SurfaceType2" = "Лед";
+"SurfaceType2" = "Лёд";
 "SurfaceType3" = "Лес";
 "SurfaceType4" = "Вода";
 "SurfaceType5" = "Воздух";
@@ -57,7 +57,7 @@
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
-"VoiceAssistantLevel0" = "Говорить все";
+"VoiceAssistantLevel0" = "Говорить всё";
 "VoiceAssistantLevel1" = "Средние повороты и круче";
 "VoiceAssistantLevel2" = "Только трудные и круче";
 
