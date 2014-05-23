@@ -1,14 +1,14 @@
 "purchased title" = "Purchased!";
-"loading product price title" = "Loading price...";
+"loading product price title" = "Getting price...";
 
-"need purchase alert title" = "Action is not available";
-"need purchase pro mode alert message" = "For this action is necessary to buy \"Pro Mode\" in additional upgrade";
+"need purchase alert title" = "Not available";
+"need purchase pro mode alert message" = "Activate \"PRO Mode\" to use this option";
 
 "promotion pro mode alert title" = "PRO mode";
-"promotion pro mode alert message" = "PRO mode functions are not purchased. Demonstration mode will enable it for 5 minutes only";
+"promotion pro mode alert message" = "PRO mode is not activated. Trial DEMO will be enabled for 10 minutes";
 
-"need restore purchases alert title" = "Restoration";
-"need restore purchases alert message" = "We detect that you have purchases, you want to restore their?";
+"need restore purchases alert title" = "Restore";
+"need restore purchases alert message" = "Active subscription has been found. Do you want to restore?";
 
 "cancel button" = "Cancel";
 "store button" = "Buy";
@@ -17,13 +17,13 @@
 
 "ad free title" = "Ad Free";
 "voice assistant title" = "Voice assistant (co-driver)";
-"draw features title" = "Plus +";
+"draw features title" = "Customization Plus";
 
-"ad free description" = "Enjoy HUDWAY without Ads and get an extra place on the tracking screen";
-"voice assistant description" = "Hudway Voice Assistant alerts you on every dangerous curve on the road ahead, creating an audio-image to hear for the next one-two turns";
-"draw features description" = "Want different road style? With this upgrade you will be able to customize the view of the road and its turns. Every new style will be available here";
+"ad free description" = "Enjoy HUDWAY without Ads and get extra space on the screen";
+"voice assistant description" = "Hudway Voice Assistant alerts you on every dangerous curve on the road ahead, creating an audio-image for the next up to two turns";
+"draw features description" = "Customized view of the road, dangerous turns alerts and more on your own preferences";
 
-"alert purchase error #100 message" = "Can't connect to App Store, check in Settings > General > Restrictions that the In-App Purchases is enabled";
+"alert purchase error #100 message" = "Can't connect to App Store, check Settings > General > Restrictions if In-App Purchases is enabled";
 "alert purchase error #105 message" = "Can't connect to App Store";
 "alert purchase error #106 message" = "Can't buy product, because can't connect to App Store";
 "alert purchase error #107 message" = "Can't connect to App Store";
@@ -37,9 +37,9 @@
 "purchase sku_ads_disabled buy button" = "Turn off Ads for %@";
 "purchase sku_pro_mode_enabled buy button" = "Go PRO for %@";
 
-"not available voice assistant alert message" = "Voice Assistant is only available starting with iOS 7.0";
+"not available voice assistant alert message" = "Voice Assistant is available only on iOS 7+ versions";
 
-"subscription description format" = "Subscription ends %@";
+"subscription description format" = "Subscribed till %@";
 "subscription status title" = "Status";
 "subscription upgrade title" = "Upgrade";
-"subscription enabled title" = "PRO mode is enabled";
+"subscription enabled title" = "PRO mode is activated";
