@@ -57,6 +57,10 @@
 "MapService0" = "谷歌地图";
 "MapService1" = "苹果地图及维基世界地图";
 
+"MapServiceAndroid0" = "Google";
+"MapServiceAndroid1" = "OpenStreetMap";
+"MapServiceAndroid2" = "Yandex";
+
 "VoiceAssistantLevel0" = "Say all";
 "VoiceAssistantLevel1" = "Medium turns and steeper";
 "VoiceAssistantLevel2" = "Only hard and steeper";

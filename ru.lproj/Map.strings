@@ -2,6 +2,15 @@
 "mapTypeHybrid"     = "Гибрид";
 "mapTypeSatellite"  = "Спутник";
 
+"mapTypeStandard Google Android"   = "Схема";
+"mapTypeHybrid Google Android"     = "Гибрид";
+"mapTypeSatellite Google Android"  = "Спутник";
+
+"mapTypeStandard Yandex Android"   = "Схема";
+"mapTypeSatellite Yandex Android"  = "Спутник";
+"mapTypeNarod Yandex Android"      = "Народная";
+
+
 "current position button title" = "Текущая";
 "start position button title"   = "Начало маршрута";
 "finish position button title"   = "Конец маршрута";

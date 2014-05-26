@@ -57,6 +57,10 @@
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
+"MapServiceAndroid0" = "Google";
+"MapServiceAndroid1" = "OpenStreetMap";
+"MapServiceAndroid2" = "Yandex";
+
 "VoiceAssistantLevel0" = "Say all";
 "VoiceAssistantLevel1" = "Medium turns and steeper";
 "VoiceAssistantLevel2" = "Only hard and steeper";

@@ -57,6 +57,10 @@
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
+"MapServiceAndroid0" = "Google";
+"MapServiceAndroid1" = "Open Street Map";
+"MapServiceAndroid2" = "Yandex";
+
 "VoiceAssistantLevel0" = "Alles ansagen";
 "VoiceAssistantLevel1" = "Kurven, Gefälle und Steigungen";
 "VoiceAssistantLevel2" = "Enge Kurven und große Gefälle oder Steigungen";

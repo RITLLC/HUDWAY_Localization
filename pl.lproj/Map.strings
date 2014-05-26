@@ -2,6 +2,14 @@
 "mapTypeHybrid"     = "Hybryda";
 "mapTypeSatellite"  = "Satelita";
 
+"mapTypeStandard Google Android"   = "Standardowa";
+"mapTypeHybrid Google Android"     = "Hybryda";
+"mapTypeSatellite Google Android"  = "Satelita";
+
+"mapTypeStandard Yandex Android"   = "Standardowa";
+"mapTypeSatellite Yandex Android"  = "Satelita";
+"mapTypeNarod Yandex Android"      = "Narodnaya";
+
 "current position button title" = "Aktualna";
 "start position button title"   = "Początek trasy";
 "finish position button title"   = "Koniec trasy";

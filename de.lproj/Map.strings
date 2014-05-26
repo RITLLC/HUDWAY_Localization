@@ -2,6 +2,14 @@
 "mapTypeHybrid"     = "Hybrid";
 "mapTypeSatellite"  = "Satellit";
 
+"mapTypeStandard Google Android"   = "Standard";
+"mapTypeHybrid Google Android"     = "Hybrid";
+"mapTypeSatellite Google Android"  = "Satellit";
+
+"mapTypeStandard Yandex Android"   = "Standard";
+"mapTypeSatellite Yandex Android"  = "Satellit";
+"mapTypeNarod Yandex Android"      = "Narodnaya";
+
 "current position button title" = "Aktueller Standort";
 "start position button title"   = "Startpunkt";
 "finish position button title"   = "Zielpunkt";

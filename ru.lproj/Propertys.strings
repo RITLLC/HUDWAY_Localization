@@ -57,6 +57,10 @@
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
+"MapServiceAndroid0" = "Google";
+"MapServiceAndroid1" = "OpenStreetMap";
+"MapServiceAndroid2" = "Яндекс";
+
 "VoiceAssistantLevel0" = "Говорить всё";
 "VoiceAssistantLevel1" = "Средние повороты и круче";
 "VoiceAssistantLevel2" = "Только трудные и круче";

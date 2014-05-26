@@ -57,6 +57,10 @@
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
+"MapServiceAndroid0" = "Google";
+"MapServiceAndroid1" = "OpenStreetMap";
+"MapServiceAndroid2" = "Yandex";
+
 "VoiceAssistantLevel0" = "Mów wszystko";
 "VoiceAssistantLevel1" = "Średnie zakręty i strome";
 "VoiceAssistantLevel2" = "Tylko ostre i strome";
