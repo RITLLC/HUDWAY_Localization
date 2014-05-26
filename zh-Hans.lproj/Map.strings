@@ -8,7 +8,7 @@
 
 "mapTypeStandard Yandex Android"   = "Standard";
 "mapTypeSatellite Yandex Android"  = "Satellite";
-"mapTypeNarod Yandex Android"      = "Narodnaya";
+"mapTypeNarod Yandex Android"      = "Public";
 
 "current position button title" = "当前位置";
 "start position button title"   = "出发地";
